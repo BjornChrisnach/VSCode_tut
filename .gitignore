@@ -4,3 +4,4 @@ node-v6.9.5-linux-armv6l.tar.xz
 venv
 .vscode
 .pytest_cache
+__pycache__
