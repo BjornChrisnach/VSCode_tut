@@ -1,0 +1,6 @@
+node_modules
+node-v6.9.5-linux-armv6l
+node-v6.9.5-linux-armv6l.tar.xz
+venv
+.vscode
+.pytest_cache
